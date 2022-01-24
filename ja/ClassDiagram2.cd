@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="bg">
+    <Position X="3.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>bg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="character">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUIAAAAAAAgAACAAAAAEAAAAAAAAQAEYAhhBAAGAAg=</HashCode>
+      <FileName>character.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dj">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAABAAAAAAAAAAAAAAAgQACAAAAAA=</HashCode>
+      <FileName>dj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fj">
+    <Position X="8" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gkk">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAMAQAAIgADAABAAACAAAAAAAEMAABGAAAAE=</HashCode>
+      <FileName>gkk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jiemian">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAIAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>jiemian.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="js">
+    <Position X="9" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAAgAAAAAAAAEAAEAACACAAARAAAAAA=</HashCode>
+      <FileName>js.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="phb">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAAgAAAAAAAAAAAAAEAAEIAABAAAAAA=</HashCode>
+      <FileName>phb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="player">
+    <Position X="13.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAQABAIAQAAAAAAA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="startjm">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAAgAAAAAAQAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>startjm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wj">
+    <Position X="10.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAACAAAAAJAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>wj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="zd">
+    <Position X="3.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>zd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="zt">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAAgAAAAAAAAAAAAEAAAAAAABQAAAAA=</HashCode>
+      <FileName>zt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
